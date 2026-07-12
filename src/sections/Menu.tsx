@@ -29,7 +29,7 @@ export default function Menu({ onProductClick }: MenuProps) {
 
   // Fetch product data on mount
   useEffect(() => {
-    fetch('/data/menu.json')
+    fetch('data/menu.json')
       .then((res) => {
         if (!res.ok) {
           throw new Error('Không thể tải dữ liệu thực đơn.');
