@@ -6,14 +6,26 @@
       "englishName": "Vietnamese Black Coffee (Iced/Hot)",
       "category": "coffee",
       "price": 32000,
-      "image": "/images/products/den-da-coffee.png",
+      "image": "images/products/den-da-coffee.png",
       "description": "Hạt cà phê Robusta hảo hạng pha phin truyền thống đậm vị, thơm nồng nàn đặc trưng của Đắk Lắk.",
-      "tastingNotes": ["Đậm đắng", "Thơm nồng", "Hậu ngọt lâu"],
+      "tastingNotes": [
+        "Đậm đắng",
+        "Thơm nồng",
+        "Hậu ngọt lâu"
+      ],
       "ingredients": "Cà phê Robusta Đắk Lắk pha phin.",
-      "tags": ["Traditional"],
+      "tags": [
+        "Traditional"
+      ],
       "sizes": [
-        {"size": "M", "price": 32000},
-        {"size": "L", "price": 35000}
+        {
+          "size": "M",
+          "price": 32000
+        },
+        {
+          "size": "L",
+          "price": 35000
+        }
       ]
     },
     {
@@ -22,14 +34,27 @@
       "englishName": "Vietnamese Milk Coffee (Iced/Hot)",
       "category": "coffee",
       "price": 35000,
-      "image": "/images/products/milk-coffee.png",
+      "image": "images/products/milk-coffee.png",
       "description": "Sự hòa quyện tuyệt hảo giữa cà phê phin Robusta đậm đà và sữa đặc ngọt béo, chuẩn vị truyền thống Việt Nam.",
-      "tastingNotes": ["Ngọt ngậy", "Đắng đậm", "Thơm béo"],
+      "tastingNotes": [
+        "Ngọt ngậy",
+        "Đắng đậm",
+        "Thơm béo"
+      ],
       "ingredients": "Cà phê Robusta phin, sữa đặc đặc chế.",
-      "tags": ["Traditional", "Best Seller"],
+      "tags": [
+        "Traditional",
+        "Best Seller"
+      ],
       "sizes": [
-        {"size": "M", "price": 35000},
-        {"size": "L", "price": 38000}
+        {
+          "size": "M",
+          "price": 35000
+        },
+        {
+          "size": "L",
+          "price": 38000
+        }
       ]
     },
     {
@@ -38,14 +63,26 @@
       "englishName": "White Coffee (Iced/Hot)",
       "category": "coffee",
       "price": 35000,
-      "image": "/images/products/bac-xiu.png",
+      "image": "images/products/bac-xiu.png",
       "description": "Thức uống nhiều sữa nhẹ nhàng, kết hợp tinh tế cùng một chút cà phê phin thơm ngát.",
-      "tastingNotes": ["Nhiều sữa", "Ngọt dịu", "Thơm nhẹ cà phê"],
+      "tastingNotes": [
+        "Nhiều sữa",
+        "Ngọt dịu",
+        "Thơm nhẹ cà phê"
+      ],
       "ingredients": "Sữa tươi, sữa đặc, cà phê Robusta phin.",
-      "tags": ["Traditional"],
+      "tags": [
+        "Traditional"
+      ],
       "sizes": [
-        {"size": "M", "price": 35000},
-        {"size": "L", "price": 38000}
+        {
+          "size": "M",
+          "price": 35000
+        },
+        {
+          "size": "L",
+          "price": 38000
+        }
       ]
     },
     {
@@ -54,14 +91,27 @@
       "englishName": "Coconut White Coffee",
       "category": "coffee",
       "price": 45000,
-      "image": "/images/products/bac-xiu-cot-dua.png",
+      "image": "images/products/bac-xiu-cot-dua.png",
       "description": "Bạc xỉu truyền thống được nâng tầm khi kết hợp với cốt dừa đá xay béo ngậy thơm ngon.",
-      "tastingNotes": ["Thơm dừa", "Béo ngậy", "Dịu ngọt"],
+      "tastingNotes": [
+        "Thơm dừa",
+        "Béo ngậy",
+        "Dịu ngọt"
+      ],
       "ingredients": "Cốt dừa đá xay nhuyễn, sữa tươi, sữa đặc, cà phê phin.",
-      "tags": ["Signature", "Best Seller"],
+      "tags": [
+        "Signature",
+        "Best Seller"
+      ],
       "sizes": [
-        {"size": "M", "price": 45000},
-        {"size": "L", "price": 48000}
+        {
+          "size": "M",
+          "price": 45000
+        },
+        {
+          "size": "L",
+          "price": 48000
+        }
       ]
     },
     {
@@ -70,14 +120,27 @@
       "englishName": "Salted Cream Coffee",
       "category": "coffee",
       "price": 42000,
-      "image": "/images/products/salt-coffee.png",
+      "image": "images/products/salt-coffee.png",
       "description": "Lớp kem sữa muối mặn béo đặc chế phủ trên nền cà phê phin Robusta truyền thống thơm đậm vị.",
-      "tastingNotes": ["Mặn béo", "Mịn màng", "Đắng đằm thắm"],
+      "tastingNotes": [
+        "Mặn béo",
+        "Mịn màng",
+        "Đắng đằm thắm"
+      ],
       "ingredients": "Cà phê phin Robusta đậm đặc, kem muối biển đặc chế.",
-      "tags": ["Signature", "Best Seller"],
+      "tags": [
+        "Signature",
+        "Best Seller"
+      ],
       "sizes": [
-        {"size": "M", "price": 42000},
-        {"size": "L", "price": 45000}
+        {
+          "size": "M",
+          "price": 42000
+        },
+        {
+          "size": "L",
+          "price": 45000
+        }
       ]
     },
     {
@@ -86,14 +149,27 @@
       "englishName": "Egg Coffee",
       "category": "coffee",
       "price": 45000,
-      "image": "/images/products/cafe-trung.png",
+      "image": "images/products/cafe-trung.png",
       "description": "Lớp kem trứng đánh bông mịn màng, thơm ngậy không tanh hòa quyện cùng cà phê đen ấm nóng dưới đáy.",
-      "tastingNotes": ["Béo ngậy", "Thơm trứng nướng", "Ấm nồng"],
+      "tastingNotes": [
+        "Béo ngậy",
+        "Thơm trứng nướng",
+        "Ấm nồng"
+      ],
       "ingredients": "Cà phê đen đậm đặc, kem lòng đỏ trứng đánh bông.",
-      "tags": ["Traditional", "Signature"],
+      "tags": [
+        "Traditional",
+        "Signature"
+      ],
       "sizes": [
-        {"size": "M", "price": 45000},
-        {"size": "L", "price": 48000}
+        {
+          "size": "M",
+          "price": 45000
+        },
+        {
+          "size": "L",
+          "price": 48000
+        }
       ]
     },
     {
@@ -102,14 +178,26 @@
       "englishName": "PhinDi Specialty Coffee",
       "category": "coffee",
       "price": 45000,
-      "image": "/images/products/cafe-phindi.png",
+      "image": "images/products/cafe-phindi.png",
       "description": "Cà phê phin hiện đại kết hợp sốt ngọt ngào tùy chọn và lớp kem sữa mịn màng, dễ uống cho mọi người.",
-      "tastingNotes": ["Ngọt thanh", "Béo nhẹ", "Dễ uống"],
+      "tastingNotes": [
+        "Ngọt thanh",
+        "Béo nhẹ",
+        "Dễ uống"
+      ],
       "ingredients": "Cà phê phin giấy, sốt caramel/sô cô la, kem sữa.",
-      "tags": ["New"],
+      "tags": [
+        "New"
+      ],
       "sizes": [
-        {"size": "M", "price": 45000},
-        {"size": "L", "price": 50000}
+        {
+          "size": "M",
+          "price": 45000
+        },
+        {
+          "size": "L",
+          "price": 50000
+        }
       ]
     },
     {
@@ -118,14 +206,26 @@
       "englishName": "Cappuccino / Cafe Latte",
       "category": "coffee",
       "price": 45000,
-      "image": "/images/products/cappuccino.png",
+      "image": "images/products/cappuccino.png",
       "description": "Cà phê Ý cổ điển làm từ Espresso hạt Arabica thượng hạng, kết hợp sữa tươi đánh nóng tạo bọt mịn màng.",
-      "tastingNotes": ["Thơm sữa", "Bọt mịn màng", "Đắng dịu Arabica"],
+      "tastingNotes": [
+        "Thơm sữa",
+        "Bọt mịn màng",
+        "Đắng dịu Arabica"
+      ],
       "ingredients": "Cà phê Espresso, sữa tươi thanh trùng đánh nóng.",
-      "tags": ["Traditional"],
+      "tags": [
+        "Traditional"
+      ],
       "sizes": [
-        {"size": "M", "price": 45000},
-        {"size": "L", "price": 48000}
+        {
+          "size": "M",
+          "price": 45000
+        },
+        {
+          "size": "L",
+          "price": 48000
+        }
       ]
     },
     {
@@ -134,14 +234,27 @@
       "englishName": "The Moods Signature Tea",
       "category": "tea",
       "price": 50000,
-      "image": "/images/products/t-moods-tea.png",
+      "image": "images/products/t-moods-tea.png",
       "description": "Công thức trà thảo mộc độc quyền kết hợp với các loại quả mọng tươi tạo nên vị thanh mát độc nhất vô nhị.",
-      "tastingNotes": ["Chua ngọt thanh", "Thơm thảo mộc", "Sảng khoái"],
+      "tastingNotes": [
+        "Chua ngọt thanh",
+        "Thơm thảo mộc",
+        "Sảng khoái"
+      ],
       "ingredients": "Cốt trà thảo mộc độc quyền, trái cây tươi theo mùa.",
-      "tags": ["Signature", "Best Seller"],
+      "tags": [
+        "Signature",
+        "Best Seller"
+      ],
       "sizes": [
-        {"size": "M", "price": 50000},
-        {"size": "L", "price": 55000}
+        {
+          "size": "M",
+          "price": 50000
+        },
+        {
+          "size": "L",
+          "price": 55000
+        }
       ]
     },
     {
@@ -150,14 +263,26 @@
       "englishName": "Royal Oolong Tea",
       "category": "tea",
       "price": 48000,
-      "image": "/images/products/oolong-thien-tu.png",
+      "image": "images/products/oolong-thien-tu.png",
       "description": "Trà Ô Long nguyên chất ủ lạnh thanh tao, thơm dịu nhẹ vị trà tự nhiên giúp thư giãn tinh thần.",
-      "tastingNotes": ["Chát nhẹ", "Thanh khiết", "Hậu vị ngọt"],
+      "tastingNotes": [
+        "Chát nhẹ",
+        "Thanh khiết",
+        "Hậu vị ngọt"
+      ],
       "ingredients": "Trà ô long thượng hạng ủ lạnh.",
-      "tags": ["Healthy"],
+      "tags": [
+        "Healthy"
+      ],
       "sizes": [
-        {"size": "M", "price": 48000},
-        {"size": "L", "price": 52000}
+        {
+          "size": "M",
+          "price": 48000
+        },
+        {
+          "size": "L",
+          "price": 52000
+        }
       ]
     },
     {
@@ -166,14 +291,26 @@
       "englishName": "Peach & Orange Oolong Tea",
       "category": "tea",
       "price": 48000,
-      "image": "/images/products/peach-tea-garden.png",
+      "image": "images/products/peach-tea-garden.png",
       "description": "Trà Ô Long thơm ngát hòa cùng cam vàng mọng nước và đào ngâm giòn ngọt ngào đậm vị.",
-      "tastingNotes": ["Thơm đào", "Chua ngọt cam", "Giòn đào miếng"],
+      "tastingNotes": [
+        "Thơm đào",
+        "Chua ngọt cam",
+        "Giòn đào miếng"
+      ],
       "ingredients": "Trà ô long, nước cam tươi, đào ngâm miếng.",
-      "tags": ["Best Seller"],
+      "tags": [
+        "Best Seller"
+      ],
       "sizes": [
-        {"size": "M", "price": 48000},
-        {"size": "L", "price": 52000}
+        {
+          "size": "M",
+          "price": 48000
+        },
+        {
+          "size": "L",
+          "price": 52000
+        }
       ]
     },
     {
@@ -182,14 +319,26 @@
       "englishName": "Chrysanthemum Longan Tea",
       "category": "tea",
       "price": 48000,
-      "image": "/images/products/cuc-long-nhan.png",
+      "image": "images/products/cuc-long-nhan.png",
       "description": "Trà hoa cúc thanh nhiệt kết hợp với long nhãn khô giòn ngọt tự nhiên và chút mật ong rừng dịu ngọt.",
-      "tastingNotes": ["Ngọt thanh", "Thơm cúc nồng", "Long nhãn giòn"],
+      "tastingNotes": [
+        "Ngọt thanh",
+        "Thơm cúc nồng",
+        "Long nhãn giòn"
+      ],
       "ingredients": "Trà hoa cúc, long nhãn, mật ong rừng.",
-      "tags": ["Signature"],
+      "tags": [
+        "Signature"
+      ],
       "sizes": [
-        {"size": "M", "price": 48000},
-        {"size": "L", "price": 52000}
+        {
+          "size": "M",
+          "price": 48000
+        },
+        {
+          "size": "L",
+          "price": 52000
+        }
       ]
     },
     {
@@ -198,14 +347,27 @@
       "englishName": "Coconut Frozen Coffee",
       "category": "ice-blended",
       "price": 50000,
-      "image": "/images/products/coconut-coffee.png",
+      "image": "images/products/coconut-coffee.png",
       "description": "Espresso Robusta/Arabica đậm đà đổ lên lớp cốt dừa đá xay sánh mịn béo ngậy trang trí dừa khô giòn rụm.",
-      "tastingNotes": ["Béo dừa", "Mịn tuyết", "Thơm đắng nhẹ"],
+      "tastingNotes": [
+        "Béo dừa",
+        "Mịn tuyết",
+        "Thơm đắng nhẹ"
+      ],
       "ingredients": "Nước cốt dừa tự nhiên, Espresso hạt phối, dừa khô.",
-      "tags": ["Signature", "Best Seller"],
+      "tags": [
+        "Signature",
+        "Best Seller"
+      ],
       "sizes": [
-        {"size": "M", "price": 50000},
-        {"size": "L", "price": 55000}
+        {
+          "size": "M",
+          "price": 50000
+        },
+        {
+          "size": "L",
+          "price": 55000
+        }
       ]
     },
     {
@@ -214,14 +376,26 @@
       "englishName": "Chocolate Cookies Frappe",
       "category": "ice-blended",
       "price": 55000,
-      "image": "/images/products/choco-cookie.png",
+      "image": "images/products/choco-cookie.png",
       "description": "Bánh quy sô cô la (Oreo) xay mịn cùng sữa béo và đá tuyết, phủ một lớp kem tươi siêu dày ở trên.",
-      "tastingNotes": ["Cực béo ngậy", "Giòn oreo vụn", "Ngọt đậm đà"],
+      "tastingNotes": [
+        "Cực béo ngậy",
+        "Giòn oreo vụn",
+        "Ngọt đậm đà"
+      ],
       "ingredients": "Bánh quy Oreo sô cô la, whipping cream, sữa tươi tiệt trùng.",
-      "tags": ["Best Seller"],
+      "tags": [
+        "Best Seller"
+      ],
       "sizes": [
-        {"size": "M", "price": 55000},
-        {"size": "L", "price": 60000}
+        {
+          "size": "M",
+          "price": 55000
+        },
+        {
+          "size": "L",
+          "price": 60000
+        }
       ]
     },
     {
@@ -230,14 +404,26 @@
       "englishName": "Matcha Green Tea Freeze",
       "category": "ice-blended",
       "price": 55000,
-      "image": "/images/products/matcha-frappe.png",
+      "image": "images/products/matcha-frappe.png",
       "description": "Uji Matcha Nhật Bản xay cùng đá sữa đặc biệt kèm thạch trà xanh dai dai giòn giòn, phủ whipping cream béo ngậy.",
-      "tastingNotes": ["Đắng thơm trà xanh", "Thạch dai giòn", "Béo mịn"],
+      "tastingNotes": [
+        "Đắng thơm trà xanh",
+        "Thạch dai giòn",
+        "Béo mịn"
+      ],
       "ingredients": "Bột Matcha Nhật, thạch trà xanh tự làm, kem whipping.",
-      "tags": ["Best Seller"],
+      "tags": [
+        "Best Seller"
+      ],
       "sizes": [
-        {"size": "M", "price": 55000},
-        {"size": "L", "price": 60000}
+        {
+          "size": "M",
+          "price": 55000
+        },
+        {
+          "size": "L",
+          "price": 60000
+        }
       ]
     },
     {
@@ -246,14 +432,24 @@
       "englishName": "Coconut Cacao Blended",
       "category": "ice-blended",
       "price": 50000,
-      "image": "/images/products/cacao-cot-dua.png",
+      "image": "images/products/cacao-cot-dua.png",
       "description": "Bột cacao nguyên chất hòa quyện cùng nước cốt dừa đặc béo xay tuyết mát lạnh, trang trí vụn cacao giòn.",
-      "tastingNotes": ["Thơm cốt dừa", "Ngọt ngào cacao", "Mát lạnh mịn"],
+      "tastingNotes": [
+        "Thơm cốt dừa",
+        "Ngọt ngào cacao",
+        "Mát lạnh mịn"
+      ],
       "ingredients": "Bột cacao, nước cốt dừa, sữa đặc, đá viên.",
       "tags": [],
       "sizes": [
-        {"size": "M", "price": 50000},
-        {"size": "L", "price": 55000}
+        {
+          "size": "M",
+          "price": 50000
+        },
+        {
+          "size": "L",
+          "price": 55000
+        }
       ]
     },
     {
@@ -262,14 +458,26 @@
       "englishName": "Mint Lemon Snow",
       "category": "ice-blended",
       "price": 48000,
-      "image": "/images/products/chanh-tuyet.png",
+      "image": "images/products/chanh-tuyet.png",
       "description": "Nước cốt chanh tươi mát lạnh xay tuyết sảng khoái với hương thơm mát lạnh từ siro bạc hà.",
-      "tastingNotes": ["Chua thanh mát", "Thơm nồng bạc hà", "Tỉnh táo tức thì"],
+      "tastingNotes": [
+        "Chua thanh mát",
+        "Thơm nồng bạc hà",
+        "Tỉnh táo tức thì"
+      ],
       "ingredients": "Nước cốt chanh tươi, siro bạc hà, đường phèn.",
-      "tags": ["Signature"],
+      "tags": [
+        "Signature"
+      ],
       "sizes": [
-        {"size": "M", "price": 48000},
-        {"size": "L", "price": 52000}
+        {
+          "size": "M",
+          "price": 48000
+        },
+        {
+          "size": "L",
+          "price": 52000
+        }
       ]
     },
     {
@@ -278,14 +486,24 @@
       "englishName": "Coffee Frappuccino",
       "category": "ice-blended",
       "price": 50000,
-      "image": "/images/products/frappuccino.png",
+      "image": "images/products/frappuccino.png",
       "description": "Sự kết hợp giữa cà phê espresso chất lượng cao, sữa béo xay đá và lớp kem phủ caramel béo ngọt.",
-      "tastingNotes": ["Thơm cà phê", "Ngọt béo sữa", "Mát lạnh"],
+      "tastingNotes": [
+        "Thơm cà phê",
+        "Ngọt béo sữa",
+        "Mát lạnh"
+      ],
       "ingredients": "Cà phê espresso, sốt caramel, whipping cream.",
       "tags": [],
       "sizes": [
-        {"size": "M", "price": 50000},
-        {"size": "L", "price": 55000}
+        {
+          "size": "M",
+          "price": 50000
+        },
+        {
+          "size": "L",
+          "price": 55000
+        }
       ]
     },
     {
@@ -294,14 +512,26 @@
       "englishName": "Oolong Milk Tea Garden",
       "category": "milk-tea",
       "price": 42000,
-      "image": "/images/products/oolong-milktea.png",
+      "image": "images/products/oolong-milktea.png",
       "description": "Trà ô long thượng hạng ủ thơm kết hợp cùng vị kem sữa thanh nhẹ, béo nhưng không ngấy.",
-      "tastingNotes": ["Thơm thanh ô long", "Béo dịu nhẹ", "Ngọt vừa"],
+      "tastingNotes": [
+        "Thơm thanh ô long",
+        "Béo dịu nhẹ",
+        "Ngọt vừa"
+      ],
       "ingredients": "Trà ô long đặc trưng, sữa béo hảo hạng.",
-      "tags": ["Best Seller"],
+      "tags": [
+        "Best Seller"
+      ],
       "sizes": [
-        {"size": "M", "price": 42000},
-        {"size": "L", "price": 48000}
+        {
+          "size": "M",
+          "price": 42000
+        },
+        {
+          "size": "L",
+          "price": 48000
+        }
       ]
     },
     {
@@ -310,14 +540,26 @@
       "englishName": "Matcha or Chocolate Milk Tea",
       "category": "milk-tea",
       "price": 45000,
-      "image": "/images/products/milktea-matcha.png",
+      "image": "images/products/milktea-matcha.png",
       "description": "Lớp trà sữa thơm ngon hòa cùng bột matcha Nhật Bản thơm mát hoặc sốt sô cô la Hershey ngọt ngào đắng nhẹ.",
-      "tastingNotes": ["Thơm mát matcha", "Sô cô la ngọt đắng", "Béo ngậy sữa"],
+      "tastingNotes": [
+        "Thơm mát matcha",
+        "Sô cô la ngọt đắng",
+        "Béo ngậy sữa"
+      ],
       "ingredients": "Trà sữa, bột Uji matcha/sốt sô cô la Hershey.",
-      "tags": ["Signature"],
+      "tags": [
+        "Signature"
+      ],
       "sizes": [
-        {"size": "M", "price": 45000},
-        {"size": "L", "price": 50000}
+        {
+          "size": "M",
+          "price": 45000
+        },
+        {
+          "size": "L",
+          "price": 50000
+        }
       ]
     },
     {
@@ -326,14 +568,26 @@
       "englishName": "Orange & Carrot Juice",
       "category": "juice-smoothie-yaourt",
       "price": 46000,
-      "image": "/images/products/juice-orange-carrot.png",
+      "image": "images/products/juice-orange-carrot.png",
       "description": "Ly nước ép tươi ngon giàu vitamin kết hợp giữa vị chua của cam sành mọng nước và ngọt thanh của cà rốt tươi.",
-      "tastingNotes": ["Giàu Vitamin", "Chua ngọt tự nhiên", "Đẹp da thanh mát"],
+      "tastingNotes": [
+        "Giàu Vitamin",
+        "Chua ngọt tự nhiên",
+        "Đẹp da thanh mát"
+      ],
       "ingredients": "Cam tươi, cà rốt hữu cơ ép lạnh.",
-      "tags": ["Healthy"],
+      "tags": [
+        "Healthy"
+      ],
       "sizes": [
-        {"size": "M", "price": 46000},
-        {"size": "L", "price": 50000}
+        {
+          "size": "M",
+          "price": 46000
+        },
+        {
+          "size": "L",
+          "price": 50000
+        }
       ]
     },
     {
@@ -342,14 +596,26 @@
       "englishName": "Watermelon Fresh Juice",
       "category": "juice-smoothie-yaourt",
       "price": 45000,
-      "image": "/images/products/watermelon-juice.png",
+      "image": "images/products/watermelon-juice.png",
       "description": "Nước ép nguyên chất từ dưa hấu tươi, mát lạnh ngọt dịu sảng khoái lý tưởng cho ngày hè oi bức.",
-      "tastingNotes": ["Ngọt mát dưa hấu", "Thanh nhiệt", "100% tự nhiên"],
+      "tastingNotes": [
+        "Ngọt mát dưa hấu",
+        "Thanh nhiệt",
+        "100% tự nhiên"
+      ],
       "ingredients": "Dưa hấu tươi ép lạnh.",
-      "tags": ["Healthy"],
+      "tags": [
+        "Healthy"
+      ],
       "sizes": [
-        {"size": "M", "price": 45000},
-        {"size": "L", "price": 50000}
+        {
+          "size": "M",
+          "price": 45000
+        },
+        {
+          "size": "L",
+          "price": 50000
+        }
       ]
     },
     {
@@ -358,14 +624,27 @@
       "englishName": "Avocado Coconut Smoothie",
       "category": "juice-smoothie-yaourt",
       "price": 50000,
-      "image": "/images/products/avocado-coconut.png",
+      "image": "images/products/avocado-coconut.png",
       "description": "Quả bơ sáp chín ngậy xay nhuyễn sánh đặc cùng sữa tươi, sữa đặc và cùi dừa non giòn bùi cắt nhỏ.",
-      "tastingNotes": ["Bơ đặc sệt", "Cùi dừa giòn sần sật", "Béo bùi ngậy"],
+      "tastingNotes": [
+        "Bơ đặc sệt",
+        "Cùi dừa giòn sần sật",
+        "Béo bùi ngậy"
+      ],
       "ingredients": "Bơ sáp Đắk Lắk, cùi dừa non, sữa đặc, đá viên.",
-      "tags": ["Signature", "Best Seller"],
+      "tags": [
+        "Signature",
+        "Best Seller"
+      ],
       "sizes": [
-        {"size": "M", "price": 50000},
-        {"size": "L", "price": 55000}
+        {
+          "size": "M",
+          "price": 50000
+        },
+        {
+          "size": "L",
+          "price": 55000
+        }
       ]
     },
     {
@@ -374,14 +653,26 @@
       "englishName": "Mango & Banana Smoothie",
       "category": "juice-smoothie-yaourt",
       "price": 45000,
-      "image": "/images/products/smoothie-mango-banana.png",
+      "image": "images/products/smoothie-mango-banana.png",
       "description": "Sự kết hợp bổ dưỡng sánh mịn tuyệt hảo giữa vị ngọt thơm dịu của chuối chín và vị chua ngọt của xoài cát.",
-      "tastingNotes": ["Ngọt bùi chuối xoài", "Sánh mịn tuyệt đối", "Giàu năng lượng"],
+      "tastingNotes": [
+        "Ngọt bùi chuối xoài",
+        "Sánh mịn tuyệt đối",
+        "Giàu năng lượng"
+      ],
       "ingredients": "Xoài chín ngọt, chuối sứ, sữa đặc, sữa tươi.",
-      "tags": ["Healthy"],
+      "tags": [
+        "Healthy"
+      ],
       "sizes": [
-        {"size": "M", "price": 45000},
-        {"size": "L", "price": 50000}
+        {
+          "size": "M",
+          "price": 45000
+        },
+        {
+          "size": "L",
+          "price": 50000
+        }
       ]
     },
     {
@@ -390,14 +681,26 @@
       "englishName": "Fresh Fruit Yogurt Selection",
       "category": "juice-smoothie-yaourt",
       "price": 45000,
-      "image": "/images/products/fruit-yaourt.png",
+      "image": "images/products/fruit-yaourt.png",
       "description": "Lớp sữa chua dẻo thơm mát kết hợp sốt kiwi xanh ngọt thanh, dâu tây đỏ tươi mọng hoặc chanh dây vàng thơm lừng.",
-      "tastingNotes": ["Trái cây chua nhẹ", "Béo mịn màng", "Healthy lành mạnh"],
+      "tastingNotes": [
+        "Trái cây chua nhẹ",
+        "Béo mịn màng",
+        "Healthy lành mạnh"
+      ],
       "ingredients": "Sữa chua, sốt kiwi/dâu tây/chanh dây tươi, đá bào.",
-      "tags": ["New"],
+      "tags": [
+        "New"
+      ],
       "sizes": [
-        {"size": "M", "price": 45000},
-        {"size": "L", "price": 50000}
+        {
+          "size": "M",
+          "price": 45000
+        },
+        {
+          "size": "L",
+          "price": 50000
+        }
       ]
     }
   ]

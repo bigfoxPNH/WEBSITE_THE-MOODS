@@ -119,10 +119,11 @@ export default function Hero({ onMenuClick }: HeroProps) {
           
           <div className="overflow-hidden rounded-[2rem] border border-primary/10 shadow-2xl relative group">
             <img 
-              src="/images/space/garden-hero.png" 
+              src="images/space/garden-hero.png" 
               alt="The Moods Coffee & Tea Garden Space" 
               className="w-full h-[450px] object-cover transition-transform duration-700 group-hover:scale-105"
             />
+
             <div className="absolute inset-0 bg-gradient-to-t from-primary-dark/60 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500 flex items-end p-8">
               <p className="text-cream text-sm font-medium italic">Không gian ngoài trời ngập tràn sắc xanh tại The Moods</p>
             </div>
